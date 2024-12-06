@@ -104,11 +104,11 @@ Here are examples of predictions made by the model:
 ## 🏁 Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/handwritten-digit-identification.git
+    git clone https://github.com/CHITTARANJANMOHANTY-2003/All_projects.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd handwritten-digit-identification
+    cd Handwrite-digit-identification
     ```
 3. Run the Jupyter Notebook:
     ```bash
