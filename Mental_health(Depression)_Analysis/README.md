@@ -37,11 +37,11 @@ This project explores and analyzes data related to mental health and depression,
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Mental-Health-Depression-Analysis.git
+   git clone https://github.com/CHITTARANJANMOHANTY-2003/All_projects.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Mental-Health-Depression-Analysis
+   cd Mental_health(Depression)_Analysis
    ```
 3. Install the required libraries:
    ```bash
@@ -52,7 +52,7 @@ This project explores and analyzes data related to mental health and depression,
 
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook mental_health_depression_analysis.ipynb
+   jupyter notebook Mental health Depression Analysis.ipynb
    ```
 2. Follow the instructions in the notebook to reproduce the analysis.
 
