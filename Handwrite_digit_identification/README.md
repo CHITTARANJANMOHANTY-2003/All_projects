@@ -1,7 +1,3 @@
-To write a comprehensive `README.md` file for your "Handwritten Digit Identification using TensorFlow" project, here are the sections and points you should include:
-
----
-
 # Handwritten Digit Identification using TensorFlow
 
 ## 📋 Overview
